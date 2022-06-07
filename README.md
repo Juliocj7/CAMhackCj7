@@ -22,7 +22,7 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20210818-131619_Termux](https://user-images.githubusercontent.com/81049859/129977101-8befc1b8-91f0-49b3-8bf8-33b185743a91.png)
+![Screenshot_20220607-145919_Termux](https://user-images.githubusercontent.com/81049859/172466893-df300137-7a30-4de0-9255-7ae74ede185a.png)
 
 - Super Remake Pro de :
 - [insecam](https://github.com/wilian-lgn/insecam) by wilian-lgn
