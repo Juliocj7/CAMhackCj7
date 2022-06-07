@@ -24,9 +24,6 @@
 ## Menú Principal :
 ![Screenshot_20220607-145919_Termux](https://user-images.githubusercontent.com/81049859/172466893-df300137-7a30-4de0-9255-7ae74ede185a.png)
 
-- Super Remake Pro de :
-- [insecam](https://github.com/wilian-lgn/insecam) by wilian-lgn
-
 ## CAMhackCj7 :
 * Herramienta Phishing para capturar fotografías de la cámara frontal y trasera de la víctima. 
 * Personaliza y camufla enlace Phishing para una mejor ingeniería social.
