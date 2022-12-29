@@ -23,7 +23,7 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20220607-145919_Termux](https://user-images.githubusercontent.com/81049859/172466893-df300137-7a30-4de0-9255-7ae74ede185a.png)
+![Screenshot_20221228-195743_Termux](https://user-images.githubusercontent.com/81049859/209887412-abbe64fc-da5f-41ca-bcae-616fab8e0682.png)
 
 ## CAMhackCj7 :
 * Herramienta Phishing para capturar fotografías de la cámara frontal y trasera de la víctima. 
