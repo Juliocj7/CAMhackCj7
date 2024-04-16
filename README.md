@@ -46,7 +46,7 @@ ______________________________________________________
 ![1000285751](https://github.com/Juliocj7/CAMhackCj7/assets/81049859/32624988-15b1-465b-ae85-afa1256f16df)
 
 ## CAMhackCj7 :
-* Herramienta Phishing para capturar fotografías de la cámara frontal y trasera de la víctima. 
+* Herramienta Phishing para capturar fotografías de la cámara frontal y trasera. 
 * Personaliza y camufla enlace Phishing para una mejor ingeniería social.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
